@@ -1,4 +1,4 @@
-# external output
+# external output test
 with_fx :sound_out_stereo, output: 3 do
   live_loop :gabe do
     sample :bd_haus, rate: 1, amp: 10
